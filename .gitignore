@@ -1,6 +1,7 @@
 *.pt
 *.pth
 *.zip
+*.ipynb
 venv/
 .DS_Store
 __pycache__/
